@@ -103,6 +103,12 @@ I'm a **Data Analyst** with **3+ years of experience** building AI/ML solutions 
 
 <div align="center">
 
+<a href="https://github.com/sahilniranjan/customer-one">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilniranjan&repo=customer-one&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/sahilniranjan/loblatency">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilniranjan&repo=loblatency&theme=tokyonight&hide_border=true" />
+</a>
 <a href="https://github.com/sahilniranjan/yoga-pose-detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilniranjan&repo=yoga-pose-detection&theme=tokyonight&hide_border=true" />
 </a>
@@ -111,6 +117,12 @@ I'm a **Data Analyst** with **3+ years of experience** building AI/ML solutions 
 </a>
 
 </div>
+
+### 🛒 Customer One — Customer Behavior Analytics
+> Customer Behavior Analytics Web App that segments users based on purchasing patterns using machine learning. Built with **Python, Scikit-learn, and Streamlit**. Achieves **97% pattern recognition accuracy** to help businesses understand and target different customer groups.
+
+### 📈 LobLatency — Low-Latency Order Book Prediction
+> Forecasts short-term crypto price movements from L2 market data. **Python** for research and model training, **C++** for sub-millisecond inference. Features a live **Streamlit dashboard** for exploring order book data and backtest results.
 
 ### 🧘 Yoga Pose Detection (Real-Time)
 > Engineered a real-time pose classification pipeline using **Flask, Mediapipe, and Random Forest** on 10,000+ samples. Achieved **5-10% accuracy gain** through feature engineering and hyperparameter tuning.
