@@ -4,10 +4,10 @@
 
 ### Data Analyst | AI/ML Enthusiast | Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilniranjan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilniranjan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjan.sa@northeastern.edu)
-[![Phone](https://img.shields.io/badge/📞_857--424--6060-333333?style=for-the-badge)]()
+<a href="https://www.linkedin.com/in/sahilniranjan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/sahilniranjan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:niranjan.sa@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="tel:+18574246060"><img src="https://img.shields.io/badge/📞_857--424--6060-333333?style=for-the-badge" alt="Phone"/></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=3%2B+Years+of+Data+Analytics+Experience;Building+AI%2FML+Solutions+with+Python+%26+LLMs;RAG+Pipelines+%7C+Predictive+Modeling+%7C+NLP;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 
@@ -156,8 +156,8 @@ I'm a **Data Analyst** with **3+ years of experience** building AI/ML solutions 
 
 I'm always open to collaborating on **data analytics, AI/ML projects**, and **open-source contributions**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilniranjan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjan.sa@northeastern.edu)
+<a href="https://www.linkedin.com/in/sahilniranjan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:niranjan.sa@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sahilniranjan&color=6C63FF&style=for-the-badge)
 
