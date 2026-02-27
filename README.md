@@ -103,11 +103,11 @@ I'm a **Data Analyst** with **3+ years of experience** building AI/ML solutions 
 
 <div align="center">
 
-<a href="https://github.com/sahilniranjan/customer-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilniranjan&repo=customer-one&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/sahilniranjan/Customer-Behavior-Analytics-Web-App-Deployed">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilniranjan&repo=Customer-Behavior-Analytics-Web-App-Deployed&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/sahilniranjan/loblatency">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilniranjan&repo=loblatency&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/sahilniranjan/lob-latency-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilniranjan&repo=lob-latency-project&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/sahilniranjan/yoga-pose-detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilniranjan&repo=yoga-pose-detection&theme=tokyonight&hide_border=true" />
